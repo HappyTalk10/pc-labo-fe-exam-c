@@ -4,6 +4,16 @@
 
 配列への「順次アクセス」と「ストライドアクセス（飛び飛び）」で実行時間を比較し、CPUキャッシュのヒット率が実効アクセス時間に与える影響を体感するプログラム。
 
+## 配置構成
+```
+pc-labo-fe-exam-c/
+├── README.md
+├── .gitignore
+└── 01_cache_access/
+    ├── README.md
+    └── cache_access.c
+```
+
 ## 実行方法
 
 ```bash
