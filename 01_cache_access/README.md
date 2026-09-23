@@ -1,6 +1,6 @@
 # 01_cache_access
 
-記事：[基本情報技術者試験問題に挑戦しよう！「主記憶の実効アクセス時間」～C言語でつくって確かめる～【GitHub対応】](https://pc-labo.online/2024/01/11/fe-main-memory-effective-access-time/)
+記事：[基本情報技術者試験問題に挑戦しよう！「主記憶の実効アクセス時間」～C言語でつくって学ぶ～【GitHub対応】](https://pc-labo.online/2024/01/11/fe-main-memory-effective-access-time/)
 
 配列への「順次アクセス」と「ストライドアクセス（飛び飛び）」で実行時間を比較し、CPUキャッシュのヒット率が実効アクセス時間に与える影響を体感するプログラム。
 

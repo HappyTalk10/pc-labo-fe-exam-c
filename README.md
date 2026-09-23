@@ -10,7 +10,7 @@ Pythonで実装したシリーズは [pc-labo-fe-exam-python](https://github.com
 
 | フォルダ | 記事 |
 |---|---|
-| [01_cache_access](./01_cache_access) | [基本情報技術者試験問題に挑戦しよう！「主記憶の実効アクセス時間」～C言語でつくって確かめる～【GitHub対応】](https://pc-labo.online/2024/01/11/fe-main-memory-effective-access-time/) |
+| [01_cache_access](./01_cache_access) | [基本情報技術者試験問題に挑戦しよう！「主記憶の実効アクセス時間」～C言語でつくって学ぶ～【GitHub対応】](https://pc-labo.online/2024/01/11/fe-main-memory-effective-access-time/) |
 
 ## 実行方法（共通）
 
