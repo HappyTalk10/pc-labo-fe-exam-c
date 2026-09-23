@@ -7,6 +7,11 @@
 
 int main(void) {
     int *array = malloc(sizeof(int) * SIZE);
+    if (array == NULL) {
+        perror("malloc");
+        return 1;
+    }
+
     for (int i = 0; i < SIZE; i++) {
         array[i] = i;
     }
